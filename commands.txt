@@ -1,0 +1,11 @@
+Git clone https://github.com/Bayana999/sample.git
+
+Git and github
+alternatives:AWS.bitbucket,gitlab
+
+git add.>>> add the file to staging alternatives(file is being tracked by git)
+git commit -m "message" >>> to commit the changes in the tracked file
+git push origin main >>>> pushing the files to the main branch in Github repository
+
+specile file to staging-git add filename
+git add .
